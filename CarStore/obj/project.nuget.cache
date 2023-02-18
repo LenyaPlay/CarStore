@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvUke1VqjgpGu/XPX9zSK3J00EVKUkFap5oZSAzxivGODRST7x+B8uh6+g6qa3AJRNw6+894OrPge57zW7TOBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LenyaPlay\\Desktop\\CarStore\\CarStore\\CarStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LenyaPlay\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
