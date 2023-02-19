@@ -1,6 +1,6 @@
-﻿using CarStore.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using CarStore.Models;
 
 namespace CarStore.Controllers
 {
